@@ -1,0 +1,11 @@
+import random
+
+class human:
+
+    def __init__(selfself,
+         name="Human", job=None, home=None, car=None
+     ):
+        self.name = name
+        self.job = job
+        self.home = home
+        self.car = car
