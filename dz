@@ -1,0 +1,5 @@
+new*
+class Student:
+     print('Hi')
+
+s1 = Student()
